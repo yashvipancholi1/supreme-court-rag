@@ -1,0 +1,31 @@
+# Environment
+venv/
+.env
+
+# Data files
+data/qdrant_store/
+data/sampled/
+data/supreme_court_judgements/
+data/*.txt
+data/*.json
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
